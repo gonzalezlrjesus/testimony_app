@@ -1,0 +1,31 @@
+.container {
+	height: 100vh;
+}
+
+.top-toolbar {
+	color: white;
+	background-color: #77695C;
+}
+
+mat-toolbar-row  > span {
+	margin: auto;
+}
+
+.low-toolbar {
+	color: white;
+	background-color: #F37461;
+}
+
+.low-toolbar > div {
+	width: 100%;
+	text-align: center;
+}
+
+.mat-list-base .mat-list-item {
+	color: white;
+}
+
+.mat-drawer {
+	background-color: unset;
+	bottom: unset;
+}
