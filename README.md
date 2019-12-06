@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 # First attemtp to build testimony website
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
-this project is live : 
-
-	(https://frosty-hugle-fd294b.netlify.com/)
+this project is live : [https://frosty-hugle-fd294b.netlify.com/](https://frosty-hugle-fd294b.netlify.com/)
 
 Before you begin to developer first run this commando:
 
