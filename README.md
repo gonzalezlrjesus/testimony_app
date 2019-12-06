@@ -1,7 +1,11 @@
 <<<<<<< HEAD
-# Testimony
+# First attemtp to build testimony website
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
+
+Before you begin to developer first run this commando:
+
+	npm serve
 
 ## Development server
 
